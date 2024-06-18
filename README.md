@@ -35,14 +35,17 @@ Skriv in Fahrenheit  :
 100
 Temperaturen i bastun är fantastisk. 37.78 grader. Njut av den!
 Press any key to close ...
+```
 
 ## Code Explanation
 
+```plaintext
 fahr_to_cel: Method to convert Fahrenheit to Celsius.
 överlagrad: Method to generate a random number between 1 and 100.
 Main: The main entry point of the application that handles user input and provides feedback based on the converted temperature.
 Contributing
 Feel free to submit issues or pull requests if you have any improvements or new features.
+```
 
 ## License
 
